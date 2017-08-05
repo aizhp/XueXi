@@ -9,8 +9,8 @@ public class Xzc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Xzc dy = new Xzc();
-		c99();
-		chu3();
+		dy.c99();
+		dy.chu3();
 		
 	}
 	
