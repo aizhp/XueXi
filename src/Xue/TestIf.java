@@ -1,4 +1,4 @@
-package XueIf;
+package Xue;
 
 public class TestIf {
 
